@@ -1,0 +1,93 @@
+{
+  "name": "space-portfolio",
+  "version": "1.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "author": {
+    "name": "Sanidhya Kumar Verma",
+    "email": "sanidhyyy@gmail.com",
+    "url": "https://github.com/sanidhyy"
+  },
+  "description": "Welcome to my full stack Next.js 14 space portfolio.",
+  "keywords": [
+    "reactjs",
+    "nextjs",
+    "vercel",
+    "react",
+    "space-portfolio",
+    "portfolio",
+    "react-icons",
+    "cn",
+    "clsx",
+    "3d-portfolio",
+    "3d-website",
+    "sonner",
+    "framer-motion",
+    "motion",
+    "animation",
+    "heroicons",
+    "next-themes",
+    "postcss",
+    "prettier",
+    "react-dom",
+    "tailwindcss",
+    "tailwindcss-animate",
+    "ui/ux",
+    "js",
+    "javascript",
+    "typescript",
+    "eslint",
+    "html",
+    "css"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanidhyy/space-portfolioit"
+  },
+  "homepage": "https://github.com/sanidhyy/space-portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/sanidhyy/space-portfolio/issues",
+    "email": "sanidhyyy@gmail.com"
+  },
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/sanidhy"
+    },
+    {
+      "type": "Buy me a coffee",
+      "url": "https://www.buymeacoffee.com/sanidhy"
+    }
+  ],
+  "dependencies": {
+    "@heroicons/react": "^2.1.1",
+    "@react-three/drei": "^9.102.6",
+    "@react-three/fiber": "^8.16.1",
+    "clsx": "^2.1.0",
+    "framer-motion": "^11.0.8",
+    "next": "^14.2.35",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "react-intersection-observer": "^9.8.1",
+    "tailwind-merge": "^2.2.1",
+    "three": "^0.162.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "^16.3.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
