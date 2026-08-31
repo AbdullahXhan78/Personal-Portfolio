@@ -67,6 +67,7 @@ space-portfolio/
   |- public/
   |- .eslintrc.json
   |- .gitignore
+  |- .npmrc
   |- eslint.config.mjs
   |- netlify.toml
   |- next.config.js
@@ -125,27 +126,28 @@ You might encounter some bugs while using this app. You are more than welcome to
 Useful resources and dependencies that are used in Space Portfolio.
 
 <!--- DEPENDENCIES_START --->
-- [@heroicons/react](https://www.npmjs.com/package/@heroicons/react): ^2.2.0
-- [@react-three/drei](https://www.npmjs.com/package/@react-three/drei): ^10.7.8
-- [@react-three/fiber](https://www.npmjs.com/package/@react-three/fiber): ^9.7.0
-- [@types/node](https://www.npmjs.com/package/@types/node): ^26
-- [@types/react](https://www.npmjs.com/package/@types/react): 19.2.18
-- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): 19.2.5
-- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.5.4
-- [clsx](https://www.npmjs.com/package/clsx): ^2.1.1
-- [eslint](https://www.npmjs.com/package/eslint): ^10.9.0
-- [eslint-config-next](https://www.npmjs.com/package/eslint-config-next): 16.3.2
-- [framer-motion](https://www.npmjs.com/package/framer-motion): ^13.1.1
-- [next](https://www.npmjs.com/package/next): 16.3.2
+- [@heroicons/react](https://www.npmjs.com/package/@heroicons/react): ^2.1.1
+- [@react-three/drei](https://www.npmjs.com/package/@react-three/drei): ^9.102.6
+- [@react-three/fiber](https://www.npmjs.com/package/@react-three/fiber): ^8.16.1
+- [@types/node](https://www.npmjs.com/package/@types/node): ^20
+- [@types/react](https://www.npmjs.com/package/@types/react): ^18
+- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^18
+- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.0.1
+- [clsx](https://www.npmjs.com/package/clsx): ^2.1.0
+- [eslint](https://www.npmjs.com/package/eslint): ^8
+- [eslint-config-next](https://www.npmjs.com/package/eslint-config-next): 14.1.3
+- [framer-motion](https://www.npmjs.com/package/framer-motion): ^11.0.8
+- [maath](https://www.npmjs.com/package/maath): ^0.10.7
+- [next](https://www.npmjs.com/package/next): ^14.2.35
 - [postcss](https://www.npmjs.com/package/postcss): ^8
-- [react](https://www.npmjs.com/package/react): 19.2.8
-- [react-dom](https://www.npmjs.com/package/react-dom): 19.2.8
-- [react-icons](https://www.npmjs.com/package/react-icons): ^5.7.0
-- [react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer): ^11.0.0
-- [tailwind-merge](https://www.npmjs.com/package/tailwind-merge): ^3.6.0
+- [react](https://www.npmjs.com/package/react): ^18.2.0
+- [react-dom](https://www.npmjs.com/package/react-dom): ^18.2.0
+- [react-icons](https://www.npmjs.com/package/react-icons): ^5.0.1
+- [react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer): ^9.8.1
+- [tailwind-merge](https://www.npmjs.com/package/tailwind-merge): ^2.2.1
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.3.0
-- [three](https://www.npmjs.com/package/three): ^0.185.1
-- [typescript](https://www.npmjs.com/package/typescript): ^6
+- [three](https://www.npmjs.com/package/three): ^0.162.0
+- [typescript](https://www.npmjs.com/package/typescript): ^5
 
 <!--- DEPENDENCIES_END --->
 
